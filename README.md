@@ -1,6 +1,6 @@
 # Azure AI  |  Vision Studio
 
-O Vision Studio é uma ferramenta que oferece recursos para análise de imagens usando tecnologias de visão computacional e inteligência artificial. 
+O **Vision Studio** é uma ferramenta que oferece recursos para análise de imagens usando tecnologias de visão computacional e inteligência artificial. 
 
 Com ele, é possível realizar tarefas como **detecção de objetos, reconhecimento facial, análise de sentimentos em expressões faciais, extração de texto de imagens (OCR)** e muito mais. 
 
