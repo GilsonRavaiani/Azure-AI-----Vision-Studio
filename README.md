@@ -1,9 +1,16 @@
 # Azure AI  |  Vision Studio
- Utilizando Vision Studio podemos detectar rostos, ler texto e analisar imagens
 
+O Vision Studio é uma ferramenta que oferece recursos para análise de imagens usando tecnologias de visão computacional e inteligência artificial. 
+
+Com ele, é possível realizar tarefas como **detecção de objetos, reconhecimento facial, análise de sentimentos em expressões faciais, extração de texto de imagens (OCR)** e muito mais. 
+
+A ferramenta permite pré-processamento de imagens, integração com APIs de visão computacional, customização e treinamento de modelos, e oferece recursos para visualização e análise dos resultados. 
+
+O **Vision Studio** facilita a incorporação da análise de imagem em processos de negócios, oferecendo uma variedade de funcionalidades poderosas para explorar e extrair informações de imagens de forma eficiente.
 
 ## Analisar imagens no Vision Studio
 https://aka.ms/ai900-image-analysis
+
 
 <img src="./Add captions to images/Output/Pessoas_círculo_Out.png" alt="Pessoas_círculo">
 <img src="./Add captions to images/Output/Rocha_Out.png" alt="Rocha">
