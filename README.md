@@ -6,7 +6,7 @@
 https://aka.ms/ai900-image-analysis
 
 <img src="./Add captions to images/Output/Pessoas_círculo_Out.png" alt="Pessoas_círculo" width="400" height="200">
-<img src="./Add captions to images/Output/Rocha_Out.png" alt="Rocha" width="400" height="200">
+<img src="./Add captions to images/Output/Rocha_Out.png" alt="Rocha">
 <img src="./Add captions to images/Output/Satélite_Out.png" alt="Satélite" width="400" height="200">
 
 
